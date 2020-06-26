@@ -4,19 +4,23 @@ Built using [Python](https://docs.python.org/3/), this Web Scraper has the aim o
 
 ## :warning: Prerequisites
 
-[Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+-[Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-[Selenium](https://www.selenium.dev/)
+-[Selenium](https://www.selenium.dev/)
 
-[Time module](https://docs.python.org/3/library/time.html) 
+-[Time module](https://docs.python.org/3/library/time.html) 
 
-[Matplotlib](https://matplotlib.org/)
+-[Matplotlib](https://matplotlib.org/)
 
-[Numpy](https://numpy.org/doc/)
+-[Numpy](https://numpy.org/doc/)
 
 In order to use this bot on your computer, you should already have Python installed in your computer, the libraries mentioned above, [Geckodriver](https://github.com/mozilla/geckodriver/releases) and the [Firefox](https://www.mozilla.org/pt-BR/firefox/new/) web browser as well.
 
 ## :information_source: How it works
+
+<img src="/images/initial_page.png" width="60%">
+
+
 
 
 
