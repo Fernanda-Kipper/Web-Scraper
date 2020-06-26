@@ -27,8 +27,8 @@ After start running the programm directly, the Scraping function will be called,
 X Label = Dates;
 Y Label = Ticket Prices;
 Note =    
-Mean : price in reals;
-Std deviation: price in reals.
+Mean : price BRL;
+Std deviation: price BRL.
 
 
 
