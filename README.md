@@ -18,7 +18,8 @@ In order to use this bot on your computer, you should already have Python instal
 
 ## :information_source: How it works
 
-<img src="/images/initial_page.png" width="60%">
+<img src="/images/initial.png" width="60%">
+<img src="/images/ploting_results.png" width="60%">
 
 
 
