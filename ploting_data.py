@@ -17,10 +17,10 @@ def ploting_results():
             if data not in datas:
                 datas.append(data)
             if "kayak" in line:
-                prices_kayak.append(line.split(" ")[1])
+                prices_kayak.append(int(line.split(" ")[1]))
                 all_prices.append(int(line.split(" ")[1]))
             else:
-                prices_viajanet.append(line.split(" ")[1])
+                prices_viajanet.append(int(line.split(" ")[1]))
                 all_prices.append(int(line.split(" ")[1]))
 
     mean = np.mean(all_prices)
